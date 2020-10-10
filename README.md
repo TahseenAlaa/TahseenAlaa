@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Vanilla Javascript at [FreeCodeCamp](https://freecodecamp.org/tahseen) & [CodePen](https://codepen.io/TahseenAlaa).
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TahseenAlaa&show_icons=true&theme=react) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahseenAlaa&layout=compact)](https://github.com/TahseenAlaa/github-readme-stats)
+
+
+
+
 <!--
 **TahseenAlaa/TahseenAlaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
